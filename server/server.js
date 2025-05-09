@@ -29,8 +29,8 @@ const config = {
   session: {
     absoluteDuration: 30 * 24 * 60 * 60 * 1000, // 30 days
     cookie: {
-      domain: "jobfindr-q1cl.onrender.com",
-      secure: false,
+      domain: "jobfindr-db2t.onrender.com",
+      secure: true,
       sameSite: "None",
     },
   },

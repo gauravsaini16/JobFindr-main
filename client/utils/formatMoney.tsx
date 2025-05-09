@@ -1,6 +1,6 @@
 import currency from "currency.js";
 
-const formatMoney = (amount: number, p0: string) => {
+const formatMoney = (amount: number) => {
   const symbol = "₹"
 
   return currency(amount, {

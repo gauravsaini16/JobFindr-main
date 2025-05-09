@@ -118,7 +118,7 @@ function page() {
 
                 <span>
                   <span className="font-bold">
-                    {formatMoney(salary, "GBP")}
+                    {formatMoney(salary)}
                   </span>
                   <span className="font-medium text-gray-500 text-lg">
                     /
